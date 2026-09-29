@@ -1,17 +1,17 @@
 def sumar(primer_numero, segundo_numero):
-    pass
+    return primer_numero + segundo_numero
 
 
 def restar(primer_numero, segundo_numero):
-    pass
+    return primer_numero - segundo_numero
 
 
 def multiplicar(primer_numero, segundo_numero):
-    pass
+    return primer_numero * segundo_numero
 
 
 def dividir(primer_numero, segundo_numero):
-    pass
+    resturn primer_numero / segundo_numero
 
 
 def es_par(numero):
